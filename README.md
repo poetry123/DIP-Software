@@ -1,4 +1,5 @@
-DIP-Software
 ============
 
-Intelligent remote-controlled car
+Intelligent Remote-Controlled Car
+
+Created By: Poetry
